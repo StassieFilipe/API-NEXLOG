@@ -26,6 +26,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | Lilían                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
 |  Team Member  | Marcos Domingos                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
 |  Team Member  | Lidiane       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
+|  Team Member  | Felipe Brandi | 
 
 
 # Objetivo do Projeto
@@ -39,12 +40,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
 * Power BI
 * Microsoft Excel
-* Slack
+* WhatsApp
 * Python (Colab)
-* Mysql
+* Canva
+  
 
 
 
