@@ -53,16 +53,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-
-
-
-
-
+| 1    | Alta       | Como gestor, quero que os dados sejam importados da bases publicas do ibama, para que as informações sejam de confiança.                                | 4          | 1      |
+| 2    | Média      | Como gestor,quero que os dados passem por um tratamento em linguagem de programação(Python),para garantir consistencia no dashboard.                    | 8          | 1      |
+| 3    | Alta       | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                                                 | 8          | 1      |
+| 4    | Média      | Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para identificar a concentração de riscos por classe.                         |  6          | 1      |
+| 5    | Alta       | Como gestor, quero que as métricas sejam dos municípios paulista, para identificar polos regionais de maior risco e otimizar o deslocamento das equipes regionais.     | 1         | 1      |
+| 6    | Média      | Como gestor, quero que a plataforma apresente os principais modais utilizados, para comparar a eficiencia de segurança de cada um dos modais.           | 6         | 2       |
+| 7    | Alta       | Como gestor, quero saber as principais origens das cargas, para direcionar as operaçoes de fiscalização de forma estratégica.                           | 8         | 2       | 
+| 8    | Alta       | Como gestor, quero saber os destinos das cargas, para avaliar se os instrumentos de medição nos pontos de recebimento estão devidamente aferidos.       | 8         | 2       |
+| 9    | Alta       | Como gestor, quero saber as pricipais empresas movimentadoras de cargas perigosas, para identificar parceiros com alta conformidade normativa.          | 6         | 3       |
+| 10   | Média      | Como gestor, quero a evolução das movimentaçoes ao longo do tempo, para identificar padroes de sazonalidade.                                            | 8         | 3       |
   
 # Registro das Sprints
 
