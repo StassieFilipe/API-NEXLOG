@@ -1,23 +1,22 @@
 ## 🎯 Objetivo do MVP
-> Tratar e desenvolver na plataforma Power BI, dados que permita acompanhar os municípios em ascenção,estagnação e declínio no mercado.  
-- Qual problema resolve? Dados limpos e confiáveis,podendo observar munícipios em baixas e altas na exportação e importação.
-- Qual hipótese será validada? Um dashboard na plataforma Power BI,em cima dos dados abertos do MDIC/COMEXSTAT,podendo apoiar gestores e empresas,em como esta se movimentando o mercado.
-- Qual valor será entregue ao usuário final? Tomada de decisão fundamentada em dados reais e acessiveis,para ter menores incertezas do mercado. 
+> Tratar e desenvolver na plataforma Power BI, dados que permitam acompanhar a movimentação das principais cargas dos municípios paulista.
+- Qual problema resolve? Dados de fontes públicas (IBAMA) consolidados e tratados, eliminando a inconsistência em dashboards de logística e gestão de riscos.
+- Qual hipótese será validada?A integração entre tratamento de dados via Python e visualização no Power BI permite que gestores identifiquem concentrações de fluxo de carga e otimizem a logística regional.
+- Qual valor será entregue ao usuário final? Tomada de decisão fundamentada em fontes oficiais para monitoramento logístico, com foco geográfico em municípios paulistas.
 
 ---
 
 ## 📝 Descrição da Solução
-É um dashboard no Power BI ligado a uma base de dados organizada por município paulista.
+É um dashboard no Power BI integrado a bases de dados do IBAMA, focado no monitoramento de cargas movimentadas.
 
-- Funcionalidades principais incluí:Identificação de municípios que estejam em ascenção,estagnação ou declínio no mercado.
-- Limitações conhecidas:Visão restrita a 2023–2025.
-- Escopo reduzido:Segmentação de municípios em ascenção,estagnação ou declínio no mercado.  
-
+- Funcionalidades principais incluí:Visualização do volume de cargas movimentadas.
+- Limitações conhecidas:Dependência da frequência de atualização das bases públicas do IBAMA.
+- Escopo reduzido:Foco inicial em municípios paulistas e métricas de concentração logística.
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Gestores publicos do comércio exterior, precisa monitorar desempenho dos municípios paulistas; dificuldade em acessar dados comparativos regionais e identificar tendências de mercado.
-- **Persona 2:** Analista/Empresa Exportadora, busca entender riscos e tarifas; Incerteza sobre custos e dificuldade em planejar rotas.
+- **Persona 1:** Gestor de Operações Logísticas: Precisa centralizar dados brutos para monitorar a conformidade e o fluxo das cargas.
+- **Persona 2:** Analista de Logística: Busca identificar tendências de movimentação para planejar rotas e otimizar o deslocamento de equipes regionais.
  
 
 ---
@@ -25,12 +24,11 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como gestor,quero que os dados obtidos sejam do ministério do desenvolvimento,industria,comércio,e serviços,para fornecer dados reais e acessiveis.         | Média     | 8   |
-| US2 | Como gestor,quero que os dados passem por um tratamento em linguagem de programação(Python),para que os dados fiquem limpos na sua visualização.         | Alta      | 6   |
-| US3 | Como gestor,quero importar, tratar e exportar dados em formatos CSV das importações e exportações,para que eu possa padronizar informações, gerar relatórios e disponibilizar os resultados de forma acessível.   |  Alta  |  8  |
-| US4 | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise. | Média | 6 |
-| US5 | Como gestor,quero que essa ferramenta possa fornecer dados claros,para permitir a identificação de municípios que estejam em ascenção,estagnação ou declínio no mercado. | Média | 8 |
-
+| 1    | Alta       | Como gestor, quero que os dados sejam importados da bases publicas do ibama, para que as informações sejam de confiança.                                | 4          | 1      |
+| 2    | Média      | Como gestor,quero que os dados passem por um tratamento em linguagem de programação(Python),para garantir consistencia no dashboard.                    | 8          | 1      |
+| 3    | Alta       | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                                                 | 8          | 1      |
+| 4    | Média      | Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.                         |  6          | 1      |
+| 5    | Alta       | Como gestor, quero que as métricas sejam dos municípios paulista, para identificar polos regionais de maior risco e otimizar o deslocamento das equipes regionais.     | 4         | 1      |
 ---
 
 ## 📅 Sprint(s) Relacionadas
@@ -42,7 +40,7 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário, visualize municípios em termos de comércio exterior.  
+- O dashboard deve exibir dados originados exclusivamente da base tratada do IBAMA. 
 - O sistema deve registrar, base de dados de municípios.
 - Métricas coletadas: Uso de filtros em análise.
 
@@ -51,10 +49,9 @@
 ## 📈 Métricas de Validação
 - Número de usuários que testaram o dashboard  
 - Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (% de adesão do uso da plataforma, redução de custo, etc.)  
+- IRedução de tempo na identificação de polos logísticos.
 
----
-
+  
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
@@ -64,7 +61,6 @@
 
 ## 📂 Anexos / Evidências
 - Slides da API
-- Print do jira
 - Requisitos do cliente
 - Colab (Python):
 
