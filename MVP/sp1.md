@@ -35,7 +35,7 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     |  Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.                        | Concluído|
-| 01     | DaComo gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                           | Finalizado |
+| 01     | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                           | Finalizado |
 
 ---
 
