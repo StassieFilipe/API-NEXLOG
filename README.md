@@ -28,12 +28,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Desenvolver uma ferramenta de Business Intelligence (Power BI) que apresente o tratamento de dados do IBAMA para cargas especiais, visando analisar os indicadores de movimentação de cargas. O sistema deve permitir a análise de métricas como tipos de cargas movimentadas, principais modais de transporte e matriz de Origem e Destino (OD).
 
 
 ## Tecnologias Utilizadas
@@ -68,7 +63,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 23/04/2026 | em andamento  | [MVP](MVP/sp1.md)  |
+| 01                | 23/04/2026 | Finalizado  | [MVP](MVP/sp1.md)  |
 | 02                | 14/05/2026 | em andamento  | [MVP](MVP/sp2.md)  |
 | 03                | 04/06/2026 | em andamento  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 11/06/2026 | em andamento  | [MVP](#)  |
