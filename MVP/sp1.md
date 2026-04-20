@@ -34,8 +34,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Limpeza inicial dos dados CSV (Python),e dashboard com os dados dos municípios em ascenção,estagnação e declínio no mercado.                        | Concluído|
-| 02     | Dashboard interativo,que contenha módulos de busca e filtros,para análise específica.                           | Finalizado |
+| 01     |  Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.                        | Concluído|
+| 01     | DaComo gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                           | Finalizado |
 
 ---
 
