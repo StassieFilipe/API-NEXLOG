@@ -23,7 +23,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | Team Member   | Daniel Augusto              |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DanielASFarias)        |
 |  Team Member  | Lilían                 |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Lilicarlini?tab=repositories)        |
 |  Team Member  | Marcos Domingos                 |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Marcosdpacheco7)   |
-|  Team Member  | Lidiane Lopes      |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
+|  Team Member  | Lidiane Lopes      |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/l64070278-droid)    
 |  Team Member  | Felipe Brandi | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Brandi0911)
 
 
