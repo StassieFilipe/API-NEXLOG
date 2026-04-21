@@ -18,13 +18,13 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Filipe Gabriel         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
-| Scrum Master  | Vitor Amaral |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/vitor-amaral-szabo-b533b6339/))](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
-| Team Member   | Daniel Augusto              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  Team Member  | Lilían                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  Team Member  | Marcos Domingos                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
-|  Team Member  | Lidiane       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
-|  Team Member  | Felipe Brandi | 
+| Product Owner |   Filipe Gabriel         |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/StassieFilipe)              |
+| Scrum Master  | Vitor Amaral |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]([https://github.com/](https://github.com/szaboamaral-design))     |
+| Team Member   | Daniel Augusto              |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
+|  Team Member  | Lilían                 |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
+|  Team Member  | Marcos Domingos                 |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
+|  Team Member  | Lidiane Lopes      |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
+|  Team Member  | Felipe Brandi | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]([https://github.com/](https://github.com/Brandi0911))
 
 
 # Objetivo do Projeto
@@ -58,6 +58,14 @@ Desenvolver uma ferramenta de Business Intelligence (Power BI) que apresente o t
 | 10    | Baixa      | Como gestor, quero visualizar um ranking (Top 5) das empreas, para que eu possa focar meus esforços e análises nas contas de maior relevância.   | 4    | 3       |
 | 11    | Alta       | Como gestor, quero saber as pricipais empresas movimentadoras de cargas perigosas, para identificar parceiros com alta conformidade normativa.          | 6         | 3       |
 | 12   | Média      | Como gestor, quero a evolução das movimentaçoes ao longo do tempo, para identificar padroes de sazonalidade.                                            | 8         | 3       |
+
+# Competências desenvolvidas
+- Documentação do projeto ágil(backlog do produto, de sprint, briefing, etc.)
+- Processo de desenvolvimento ágil
+- Caracterização do produto logístico
+- Lógica de programação básica
+- Lógica matemática
+- Persistência de dados em BD relacional
   
 # Registro das Sprints
 
