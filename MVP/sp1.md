@@ -64,3 +64,17 @@
 - Requisitos do cliente
 - Colab (Python):
 
+
+
+
+
+
+https://github.com/user-attachments/assets/724241ce-eb88-4473-b5bd-5f8c67b51c22
+
+
+
+
+https://github.com/user-attachments/assets/b3f516b3-a776-40a2-9f58-609ed5a65b8d
+
+
+
