@@ -43,7 +43,7 @@
 
 ## 📊 Critérios de Aceitação
 - O dashboard deve exibir dados originados exclusivamente da base tratada do IBAMA. 
-- O sistema deve registrar, base de dados de municípios.
+- O sistema deve registrar, base de dados de municípios de São Paulo.
 - Métricas coletadas: Uso de filtros em análise.
 
 ---
