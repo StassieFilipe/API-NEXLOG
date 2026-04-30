@@ -50,7 +50,7 @@ Desenvolver uma ferramenta de Business Intelligence (Power BI) que apresente o t
 | 2    | Média      | Como gestor,quero que os dados passem por um tratamento em linguagem de programação(Python),para garantir consistencia no dashboard.                    | 8          | 1      |
 | 3    | Alta       | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                                                 | 8          | 1      |
 | 4    | Média      | Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.               |  6          | 1      |
-| 5    | Média | Como gestor, quero ter um módulo de busca espacífico para selecionar anos, para que eu possa filtrar informações históricas e analisar dados de períodos específicos com rapidez.    | 6      |  2     |
+| 5    | Média | Como gestor, quero ter um módulo de busca específico para selecionar anos, para que eu possa filtrar informações históricas e analisar dados de períodos específicos com rapidez.    | 6      |  2     |
 | 6    | Média      | Como gestor, quero que a plataforma apresente os principais modais utilizados, para comparar a eficiencia de segurança de cada um dos modais.           | 6         | 2       |
 | 7    | Alta       | Como gestor, quero saber as principais origens das cargas, para direcionar as operaçoes de fiscalização de forma estratégica.                           | 8         | 2       | 
 | 8    | Alta       | Como gestor, quero saber os destinos das cargas, para avaliar se os instrumentos de medição nos pontos de recebimento estão devidamente aferidos.       | 8         | 2       |
