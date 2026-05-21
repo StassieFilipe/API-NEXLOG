@@ -51,7 +51,7 @@ Desenvolver uma ferramenta de Business Intelligence (Power BI) que apresente o t
 | 3    | Alta       | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                                                 | 8          | 1      |
 | 4    | Média      | Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.               |  6          | 1      |
 | 5    | Média | Como gestor, quero ter um módulo de busca específico para selecionar anos, para que eu possa filtrar informações históricas e analisar dados de períodos específicos com rapidez.    | 6      |  2     |
-| 6    | Média      | Como gestor, quero que a plataforma apresente os principais modais utilizados, para comparar a eficiencia de segurança de cada um dos modais.           | 6         | 2       |
+| 6    | Média      | Como gestor, quero que a plataforma apresente os tipos de armazenamento das cargas, para saber se estão alocando as cargas mo seu devido lugar de conformidade técnica.           | 6         | 2       |
 | 7    | Alta       | Como gestor, quero saber as principais origens das cargas, para direcionar as operaçoes de fiscalização de forma estratégica.                           | 8         | 2       | 
 | 8    | Alta       | Como gestor, quero saber os destinos das cargas, para avaliar se os instrumentos de medição nos pontos de recebimento estão devidamente aferidos.       | 8         | 2       |
 | 9    | Baixa      | Como gestor, quero visualizar um ranking (Top 5) das empreas, para que eu possa focar meus esforços e análises nas contas de maior relevância.   | 4    | 3       |
@@ -71,6 +71,6 @@ Desenvolver uma ferramenta de Business Intelligence (Power BI) que apresente o t
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 23/04/2026 | Finalizado  | [MVP](MVP/sp1.md)  |
-| 02                | 14/05/2026 | em andamento  | [MVP](MVP/sp2.md)  |
+| 02                | 28/05/2026 | Finalizado  | [MVP](MVP/sp2.md)  |
 | 03                | 04/06/2026 | em andamento  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 11/06/2026 | em andamento  | [MVP](#)  |
