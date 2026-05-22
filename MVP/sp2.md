@@ -60,5 +60,5 @@ Será desenvolvida uma plataforma web com funcionalidades essenciais para consul
 ## 📂 Anexos / Evidências
 - Slides da API
 - Requisitos do cliente
-- Colab (Python):
+  -Video Dashboard:
 
