@@ -1,23 +1,22 @@
 ## 🎯 Objetivo do MVP
-> Tratar e desenvolver na plataforma Power BI, dados que permitam acompanhar a movimentação das principais cargas dos municípios paulista.
-- Qual problema resolve? Dados de fontes públicas (IBAMA) consolidados e tratados, eliminando a inconsistência em dashboards de logística e gestão de riscos.
-- Qual hipótese será validada?A integração entre tratamento de dados via Python e visualização no Power BI permite que gestores identifiquem concentrações de fluxo de carga e otimizem a logística regional.
-- Qual valor será entregue ao usuário final? Tomada de decisão fundamentada em fontes oficiais para monitoramento logístico, com foco geográfico em municípios paulistas.
+> O MVP tem como propósito disponibilizar uma plataforma inicial de monitoramento e análise logística para apoiar gestores na fiscalização e controle das cargas armazenadas e transportadas.
+Qual problema resolve?
+- Qual problema resolve?Filtrar informações históricas por períodos específicos;Identificar se as cargas estão armazenadas corretamente conforme critérios técnicos;Visualizar as principais origens e destinos das cargas;
+- Qual hipótese será validada?Visão centralizada das operações de carga;Capacidade de análise histórica por período;Informações sobre movimentação de cargas;Maior controle sobre aferições e recebimentos.
+- Qual valor será entregue ao usuário final? Tomada de decisão fundamentada em fontes oficiais para monitoramento logístico das cargas.
 
 ---
 
 ## 📝 Descrição da Solução
-É um dashboard no Power BI integrado a bases de dados do IBAMA, focado no monitoramento de cargas movimentadas.
-
-- Funcionalidades principais incluí:Visualização do volume de cargas movimentadas.
-- Limitações conhecidas:Dependência da frequência de atualização das bases públicas do IBAMA.
-- Escopo reduzido:Foco inicial em municípios paulistas e métricas de concentração logística.
+Será desenvolvida uma plataforma web com funcionalidades essenciais para consulta, monitoramento e análise operacional das cargas.
+- Funcionalidades principais incluí:Filtro de informações históricas por ano e período;Visualização do Tipo de armazenamento das cargas;Dashboard com principais origens das cargas;Dashboard com principais destinos das cargas;
+- Limitações conhecidas:Relatórios simplificados;Sem automação avançada de alertas;
+- Escopo reduzido:Eficiência do acompanhamento logístico;
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Gestor de Operações Logísticas: Precisa centralizar dados brutos para monitorar a conformidade e o fluxo das cargas.
-- **Persona 2:** Analista de Logística: Busca identificar tendências de movimentação para planejar rotas e otimizar o deslocamento de equipes regionais.
- 
+- **Persona 1:** Gestor de Operações Logísticas: Precisa visualizar fluxos logísticos de origem e destino.
+- **Persona 2:** Fiscal Operacional:Precisa conferir aferições, validar conformidade das cargas e registrar inconsistências operacionais.
 
 ---
 
@@ -40,9 +39,9 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O dashboard deve exibir dados originados exclusivamente da base tratada do IBAMA. 
-- O sistema deve registrar, base de dados de municípios de São Paulo.
-- Métricas coletadas: Uso de filtros em análise.
+- O MVP deve permitir que o gestor filtre informações históricas por ano e período específico. 
+- O sistema deve exibir as principais origens e destinos das cargas em dashboards simples.
+- Métricas coletadas: Uso de filtro por Munícipios de São Paulo e demias estados.
 
 ---
 
