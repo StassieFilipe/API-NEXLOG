@@ -21,19 +21,18 @@ Será desenvolvida uma plataforma web com funcionalidades essenciais para consul
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
+| ID  | Prioridade                                                                | User Story | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| 1    | Alta       | Como gestor, quero que os dados sejam importados da bases publicas do ibama, para que as informações sejam de confiança.                                | 4          | 1      |
-| 2    | Média      | Como gestor,quero que os dados passem por um tratamento em linguagem de programação(Python),para garantir consistencia no dashboard.                    | 8          | 1      |
-| 3    | Alta       | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                                                 | 8          | 1      |
-| 4    | Média      | Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.                         |  6          | 1      |
-| 5    | Alta       | Como gestor, quero que as métricas sejam dos municípios paulista, para identificar polos regionais de maior risco e otimizar o deslocamento das equipes regionais.     | 4         | 1      |
----
+| 5    | Média       | Como gestor, quero ter um módulo de busca específico para selecionar anos, para que eu possa filtrar informações históricas e analisar dados de períodos específicos com rapidez.     | 6          | 1      |
+| 6    | Média      | Como gestor, quero que a plataforma apresente os tipos de armazenamento das cargas, para saber se estão alocando as cargas no seu devido lugar de conformidade técnica.                | 6          | 1      |
+| 7    | Alta       | Como gestor, quero saber as principais origens das cargas, para direcionar as operaçoes de fiscalização de forma estratégica.                                                | 8          | 1      |
+| 8    | Alta      | Como gestor, quero saber os destinos das cargas, para avaliar se os instrumentos de medição nos pontos de recebimento estão devidamente aferidos.                        |  8         | 1      |
+
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     |  Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.                        | Concluído|
+| 01     |  Como gestor, quero ter um módulo de busca específico para selecionar anos, para que eu possa filtrar informações históricas e analisar dados de períodos específicos com rapidez.                   | Concluído|
 | 01     | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                           | Finalizado |
 
 ---
