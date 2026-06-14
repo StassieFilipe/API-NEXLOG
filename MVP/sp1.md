@@ -26,11 +26,11 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| 1    | Alta       | Como gestor, quero que os dados sejam importados da bases publicas do ibama, para que as informações sejam de confiança.                                | 4          | 1      |
-| 2    | Média      | Como gestor,quero que os dados passem por um tratamento em linguagem de programação(Python),para garantir consistencia no dashboard.                    | 8          | 1      |
-| 3    | Alta       | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                                                 | 8          | 1      |
-| 4    | Média      | Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.                         |  6          | 1      |
-| 5    | Alta       | Como gestor, quero que as métricas sejam dos municípios paulista, para identificar polos regionais de maior risco e otimizar o deslocamento das equipes regionais.     | 4         | 1      |
+| 1    | Como gestor, quero que os dados sejam importados da bases publicas do ibama, para que as informações sejam de confiança.                                | Alta          | 1      |
+| 2    | Como gestor,quero que os dados passem por um tratamento em linguagem de programação(Python),para garantir consistencia no dashboard.                    | Média          | 1      |
+| 3    | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                                                 | Alta          | 1      |
+| 4    | Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.                         |  Média          | 1      |
+
 ---
 
 ## 📅 Sprint(s) Relacionadas
