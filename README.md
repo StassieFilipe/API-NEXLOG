@@ -51,12 +51,13 @@ Desenvolver uma ferramenta de Business Intelligence (Power BI) que apresente o t
 | 3    | Alta       | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                                                 | 8          | 1      |
 | 4    | Média      | Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.               |  6          | 1      |
 | 5    | Média | Como gestor, quero ter um módulo de busca específico para selecionar anos, para que eu possa filtrar informações históricas e analisar dados de períodos específicos com rapidez.    | 6      |  2     |
-| 6    | Média      | Como gestor, quero que a plataforma apresente os tipos de armazenamento das cargas, para saber se estão alocando as cargas no seu devido lugar de conformidade técnica.           | 6         | 2       |
+| 6    | Média      | Como gestor, quero ver as empresas com situaçao cadastral ativo, para identificar parceiros e fornecedores regularizados e garantir conformidade com as exigências legais e regulatórias.           | 6         | 2       |
 | 7    | Alta       | Como gestor, quero saber as principais origens das cargas, para direcionar as operaçoes de fiscalização de forma estratégica.                           | 8         | 2       | 
 | 8    | Alta       | Como gestor, quero saber os destinos das cargas, para avaliar se os instrumentos de medição nos pontos de recebimento estão devidamente aferidos.       | 8         | 2       |
-| 9    | Baixa      | Como gestor, quero visualizar um ranking (Top 5) das empreas, para que eu possa focar meus esforços e análises nas contas de maior relevância.   | 4    | 3       |
-| 10    | Alta       | Como gestor, quero saber as pricipais empresas movimentadoras de cargas perigosas, para identificar parceiros com alta conformidade normativa.          | 6         | 3       |
-| 11   | Média      | Como gestor, quero a evolução das movimentaçoes ao longo do tempo, para identificar padroes de sazonalidade.                                            | 8         | 3       |
+| 9    | Baixa      | Como gestor, quero saber as principais empresas movimentadoras de cargas perigosas, para identificar parceiros com alta conformidade normativa.  | 4    | 3       |
+| 10    | Alta       | Como gestor, quero saber os principais modais de transporte, para focar minhas fiscalizações nas rotas de maior circulação.        | 6         | 3       |
+| 11   | Média      | Como gestor, quero visualizar um ranking (Top 5) das empresas, para que eu possa focar meus esforços e análises nas contas de maior relevância.                                            | 8         | 3       |
+| 12   | Média     | Como gestor, quero a evolução dos movimentos das cargas ao longo do tempo, para identificar padrões de sazonalidade.     | 8   | 3     |
 
 # Competências desenvolvidas
 - Documentação do projeto ágil(backlog do produto, de sprint, briefing, etc.)
@@ -72,5 +73,5 @@ Desenvolver uma ferramenta de Business Intelligence (Power BI) que apresente o t
 |-------------------|------------|----------|-----------|
 | 01                | 23/04/2026 | Finalizado  | [MVP](MVP/sp1.md)  |
 | 02                | 28/05/2026 | Finalizado  | [MVP](MVP/sp2.md)  |
-| 03                | 04/06/2026 | em andamento  | [MVP](MVP/sp3.md)  |
+| 03                | 04/06/2026 | Finalizado  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 11/06/2026 | em andamento  | [MVP](#)  |
