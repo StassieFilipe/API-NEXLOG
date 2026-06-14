@@ -24,10 +24,10 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| 9    | Alta       |                                 | 4          | 1      |
-| 10    | Alta      |                     | 8          | 1      |
-| 11    | Baixa       |                                                 | 8          | 1      |
-| 12    | Média      |                        |  6          | 1      |
+| 9    |Como gestor, quero saber as principais empresas movimentadoras de cargas perigosas, para identificar parceiros com alta conformidade normativa.                                  | Alta          | 6      |
+| 10    |Como gestor, quero saber os principais modais de transporte, para focar minhas fiscalizações nas rotas de maior circulação.                      | Alta          | 4      |
+| 11    |Como gestor, quero visualizar um ranking (Top 5) das empresas, para que eu possa focar meus esforços e análises nas contas de maior relevância                                                  | Baixa          | 3      |
+| 12    |Como gestor, quero a evolução dos movimentos das cargas ao longo do tempo, para identificar padrões de sazonalidade.                         |  Média          | 8      |
 
 
 ## 📅 Sprint(s) Relacionadas
