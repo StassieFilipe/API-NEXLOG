@@ -1,7 +1,7 @@
 
 
 ## 🎯 Objetivo do MVP
-> Tratar e desenvolver na plataforma Power BI, dados que permitam acompanhar a movimentação das principais cargas dos municípios paulista.
+> Tratar e desenvolver na plataforma Power BI, dados que permitam acompanhar a movimentação das principais cargas perigosas dos municípios paulista.
 - Qual problema resolve? Dados de fontes públicas (IBAMA) consolidados e tratados, eliminando a inconsistência em dashboards de logística e gestão de riscos.
 - Qual hipótese será validada?A integração entre tratamento de dados via Python e visualização no Power BI permite que gestores identifiquem concentrações de fluxo de carga e otimizem a logística regional.
 - Qual valor será entregue ao usuário final? Tomada de decisão fundamentada em fontes oficiais para monitoramento logístico, com foco geográfico em municípios paulistas.
