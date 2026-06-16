@@ -1,7 +1,7 @@
 ## 🎯 Objetivo do MVP
-> O MVP tem como propósito disponibilizar uma plataforma inicial de monitoramento e análise logística para apoiar gestores na fiscalização e controle das cargas armazenadas e transportadas.
+> O MVP tem como propósito disponibilizar uma plataforma inicial de monitoramento e análise logística para apoiar gestores na fiscalização e controle das cargas perigosas transportadas.
 Qual problema resolve?
-- Qual problema resolve?Filtrar informações históricas por períodos específicos;Identificar se as cargas estão armazenadas corretamente;Visualizar as principais origens e destinos das cargas;
+- Qual problema resolve?Filtrar informações históricas por períodos específicos;Visualizar as principais origens e destinos das cargas;
 - Qual hipótese será validada?Visão centralizada das operações de carga;Capacidade de análise histórica por período;Informações sobre movimentação de cargas;Maior controle sobre aferições e recebimentos.
 - Qual valor será entregue ao usuário final? Tomada de decisão fundamentada em fontes oficiais para monitoramento logístico das cargas.
 
@@ -9,7 +9,7 @@ Qual problema resolve?
 
 ## 📝 Descrição da Solução
 Será desenvolvida uma plataforma web com funcionalidades essenciais para consulta, monitoramento e análise operacional das cargas.
-- Funcionalidades principais incluí:Filtro de informações históricas por ano e período;Visualização do Tipo de armazenamento das cargas;Dashboard com principais origens das cargas;Dashboard com principais destinos das cargas;
+- Funcionalidades principais incluí:Filtro de informações históricas por ano e período;Dashboard com principais origens das cargas;Dashboard com principais destinos das cargas;
 - Limitações conhecidas:Relatórios simplificados;Sem automação avançada de alertas;
 - Escopo reduzido:Eficiência do acompanhamento logístico;
 ---
