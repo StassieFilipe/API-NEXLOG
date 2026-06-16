@@ -32,8 +32,8 @@ Será desenvolvida uma plataforma web com funcionalidades essenciais para consul
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     |  Como gestor, quero ter um módulo de busca específico para selecionar anos, para que eu possa filtrar informações históricas e analisar dados de períodos específicos com rapidez.                   | Concluído|
-| 01     | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                           | Finalizado |
+| 01     |  Como gestor, quero ter um módulo de busca específico para selecionar anos, para que eu possa filtrar informações históricas e analisar dados de períodos específicos com rapidez.                   | Finalizado |
+| 03     | Como gestor, quero saber as principais empresas movimentadoras de cargas perigosas, para identificar parceiros com alta conformidade normativa.                           | Finalizado |
 
 ---
 
