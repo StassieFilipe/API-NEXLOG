@@ -65,13 +65,7 @@ Será desenvolvida uma plataforma web com funcionalidades essenciais para consul
 
 
 
-https://github.com/user-attachments/assets/70f906d7-19ea-477e-8956-023e4983e29b
 
-
-
-
-
-https://github.com/user-attachments/assets/aadd14ba-81d2-40e6-964e-37aec3855674
 
 
 
