@@ -60,8 +60,12 @@ painel analítico interativo que centraliza e visualiza os fluxos de cargas, des
 ## 📂 Anexos / Evidências
 - Slides da API
 - Requisitos do cliente
-- Colab (Python):
+- Video DashBoard:
 
+
+
+
+https://github.com/user-attachments/assets/b4b8d8d0-f355-486b-b878-4d2380202088
 
 
 
