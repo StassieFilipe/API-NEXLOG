@@ -24,7 +24,7 @@ Será desenvolvida uma plataforma web com funcionalidades essenciais para consul
 | ID  | Prioridade                                                                | User Story | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | 5    | Média       | Como gestor, quero ter um módulo de busca específico para selecionar anos, para que eu possa filtrar informações históricas e analisar dados de períodos específicos com rapidez.     | 6          | 1      |
-| 6    | Média      | Como gestor, quero que a plataforma apresente os tipos de armazenamento das cargas, para saber se estão alocando as cargas no seu devido lugar de conformidade técnica.                | 6          | 1      |
+| 6    | Média      | Como gestor, quero ver as empresas com situaçao cadastral ativo, para identificar parceiros e fornecedores regularizados e garantir conformidade com as exigências legais e regulatórias.                | 6          | 1      |
 | 7    | Alta       | Como gestor, quero saber as principais origens das cargas, para direcionar as operaçoes de fiscalização de forma estratégica.                                                | 8          | 1      |
 | 8    | Alta      | Como gestor, quero saber os destinos das cargas, para avaliar se os instrumentos de medição nos pontos de recebimento estão devidamente aferidos.                        |  8         | 1      |
 
