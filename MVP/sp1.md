@@ -67,6 +67,7 @@
 - Slides da API
 - Requisitos do cliente
 - Colab (Python):
+- Video DashBoard:
 
 
 
