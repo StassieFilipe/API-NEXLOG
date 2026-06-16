@@ -32,8 +32,8 @@ painel analítico interativo que centraliza e visualiza os fluxos de cargas, des
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     |  Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.                        | Concluído|
-| 01     | Como gestor,quero que os dados sejam apresentados em gráficos,para facilitar a interpretação e análise.                           | Finalizado |
+| 02     |  Como gestor, quero ver as empresas com situaçao cadastral ativo, para identificar parceiros e fornecedores regularizados e garantir conformidade com as exigências legais e regulatórias.                       | Finalizado |
+| 01     | Como gestor,quero que o gráfico mostre as principais cargas movimentadas, para garantir o cumprimento das normas técnicas de transportes.                           | Finalizado |
 
 ---
 
