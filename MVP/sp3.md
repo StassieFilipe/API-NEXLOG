@@ -1,22 +1,21 @@
 ## 🎯 Objetivo do MVP
-> Tratar e desenvolver na plataforma Power BI, dados que permitam acompanhar a movimentação das principais cargas dos municípios paulista.
-- Qual problema resolve? Dados de fontes públicas (IBAMA) consolidados e tratados, eliminando a inconsistência em dashboards de logística e gestão de riscos.
-- Qual hipótese será validada?A integração entre tratamento de dados via Python e visualização no Power BI permite que gestores identifiquem concentrações de fluxo de carga e otimizem a logística regional.
-- Qual valor será entregue ao usuário final? Tomada de decisão fundamentada em fontes oficiais para monitoramento logístico, com foco geográfico em municípios paulistas.
+> O objetivo deste MVP é fornecer um painel analítico para centralizar e acompanhar a movimentação de cargas (especialmente perigosas) e principais empreas movimentadoras.
+- Qual problema resolve? falta de visibilidade estratégica e a dispersão de esforços na gestão e fiscalização do transporte de cargas.
+- Qual hipótese será validada?permitindo otimizar a fiscalização nas rotas mais movimentadas e priorizar as cinco principais empresas de cargas perigosas.
+- Qual valor será entregue ao usuário final? eficiência operacional e previsibilidade, permitindo que ele tome decisões rápidas e direcione recursos de fiscalização exatamente onde há maior fluxo.
 
 ---
 
 ## 📝 Descrição da Solução
-É um dashboard no Power BI integrado a bases de dados do IBAMA, focado no monitoramento de cargas movimentadas.
-
-- Funcionalidades principais incluí:Visualização do volume de cargas movimentadas.
+painel analítico interativo que centraliza e visualiza os fluxos de cargas, destacando as rotas mais movimentadas, a sazonalidade e o ranking das cinco principais empresas do setor.
+- Funcionalidades principais incluí:Visualização das empresas principais, que estão ativas.
 - Limitações conhecidas:Dependência da frequência de atualização das bases públicas do IBAMA.
 - Escopo reduzido:Foco inicial em municípios paulistas e métricas de concentração logística.
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Gestor de Operações Logísticas: Precisa centralizar dados brutos para monitorar a conformidade e o fluxo das cargas.
-- **Persona 2:** Analista de Logística: Busca identificar tendências de movimentação para planejar rotas e otimizar o deslocamento de equipes regionais.
+- **Persona 1:** Gestor de Fiscalização Operacional: Profissional focado em garantir a segurança e a conformidade das operações, utilizando o painel para direcionar equipes de inspeção para as rotas e modais de maior circulação.
+- **Persona 2:** Gestor de Suprimentos / Logística Corporativa: Profissional responsável pela contratação de fretes, que utiliza os dados para priorizar os principais transportadores (Top 5) e identificar parceiros de alta conformidade normativa para movimentar as cargas com menor risco.
  
 
 ---
@@ -40,7 +39,7 @@
 
 ## 📊 Critérios de Aceitação
 - O dashboard deve exibir dados originados exclusivamente da base tratada do IBAMA. 
-- O sistema deve registrar, base de dados de municípios de São Paulo.
+- O sistema deve registrar, base de dados das empreasas ativas.
 - Métricas coletadas: Uso de filtros em análise.
 
 ---
