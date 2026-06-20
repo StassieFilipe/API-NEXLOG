@@ -16,7 +16,7 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
 
 # Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+|    Função     | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Filipe Gabriel         |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/StassieFilipe)              |
 | Scrum Master  | Vitor Amaral |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/szaboamaral-design)     |
