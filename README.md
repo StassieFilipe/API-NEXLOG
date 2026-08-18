@@ -74,4 +74,4 @@ Desenvolver uma ferramenta de Business Intelligence (Power BI) que apresente o t
 | 01                | 23/04/2026 | Finalizado  | [MVP](MVP/sp1.md)  |
 | 02                | 28/05/2026 | Finalizado  | [MVP](MVP/sp2.md)  |
 | 03                | 04/06/2026 | Finalizado  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 11/06/2026 | em andamento  | [MVP](#)  |
+| Feira de Soluções | 11/06/2026 | Finalizado  | [MVP](#)  |
